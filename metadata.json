@@ -1,0 +1,6 @@
+{
+  "name": "Society - AI Based Society Management Portal",
+  "description": "AI Based Society Management Portal with smart complaint triaging, community notices, and role-based resident and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
